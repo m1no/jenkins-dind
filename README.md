@@ -1,6 +1,10 @@
 jenkins-dind
 ============
 
+Outdated
+-----
+This repository is outdated. If you are looking for the newer project please follow here: [dind-builder](https://github.com/m1no/dind-builder). This project here will not be maintained anymore.
+
 ![Yo dawg, I herd you like Docker, so I put an Jenkins in your Docker so you can Docker while you Docker](https://i.chzbgr.com/maxW500/8402324480/h76778BF0/)
 
 Requirements
